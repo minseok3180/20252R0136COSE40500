@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "question": "파이썬에서 리스트와 튜플의 차이점은 무엇인가요?",
+        "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    {
+        "id": "2",
+        "question": "머신러닝에서 과적합(overfitting)을 방지하는 방법은 무엇인가요?",
+        "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    {
+        "id": "3",
+        "question": "RESTful API의 주요 특징은 무엇인가요?",
+        "error": "Error code: 401 - {'error': {'message': 'Incorrect API key provided: your-api*****here. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    }
+]
